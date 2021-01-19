@@ -1,0 +1,3 @@
+[submodule "deepdream"]
+	path = deepdream
+	url = git@github.com:google/deepdream.git
